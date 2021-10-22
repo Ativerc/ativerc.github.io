@@ -15,6 +15,14 @@ body {
     display: inline-block;
 }
 
+.prompt {
+    color: rgb(93, 187, 93);
+}
+
+.path {
+    color: rgb(167, 119, 255);
+}
+
 a, a:hover, a:focus, a:active {
     text-decoration: underline;
     color: rgb(7, 216, 7);
