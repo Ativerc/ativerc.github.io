@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+
 body {
     background-color: #404448;
+    color: white;
+    font-family: 'Fira Code', monospace;
+}
+
+/* p {  Mkaes it difficult to read
+    margin: 0;
+} */
+
+.prompt, .path {
+    display: inline-block;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: underline;
+    color: rgb(7, 216, 7);
 }
