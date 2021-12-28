@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>ativerc.github.io/</loc>
+        <loc>https://ativerc.github.io/</loc>
     </url>
     <url>
-        <loc>ativerc.github.io/blog/</loc>
+        <loc>https://ativerc.github.io/blog/</loc>
     </url>
     <url>
-        <loc>ativerc.github.io/blog/first/</loc>
+        <loc>https://ativerc.github.io/blog/first/</loc>
         <lastmod>2021-12-21</lastmod>
     </url>
     <url>
-        <loc>ativerc.github.io/blog/ooohlala/</loc>
+        <loc>https://ativerc.github.io/blog/ooohlala/</loc>
         <lastmod>2021-12-26</lastmod>
     </url>
     <url>
-        <loc>ativerc.github.io/blog/second/</loc>
+        <loc>https://ativerc.github.io/blog/second/</loc>
         <lastmod>2021-12-22</lastmod>
     </url>
 </urlset>
