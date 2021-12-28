@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: ativerc.github.io/sitemap.xml
