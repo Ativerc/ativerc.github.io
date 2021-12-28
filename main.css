@@ -11,6 +11,15 @@ body {
     margin: 0;
 } */
 
+.container {
+    margin:auto;
+    width: 90%;
+}
+
+p {
+    margin: 0;
+}
+
 .prompt, .path {
     display: inline-block;
 }
