@@ -13,7 +13,7 @@ body {
 
 .container {
     margin:auto;
-    width: 90%;
+    width: 95%;
 }
 
 p {
@@ -39,4 +39,21 @@ a, a:hover, a:focus, a:active {
 
 a:visited {
     color: rgb(96, 196, 96);
+}
+
+
+@media (min-width:600px) {
+    .container {
+        height: 200px;
+        position: relative;
+    }
+    .center {
+        margin: 0;
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
+    
 }
